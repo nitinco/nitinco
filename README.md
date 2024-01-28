@@ -3,8 +3,8 @@
 <hr>
 
 
-<h2 style="text-align:centre;"><em>B.tech</em><em> computer science and engineering, student at the Rajasthan technical University Kota, Rajasthan,india</em></h2>
 
+<h2 style="text-align: center;"><em>B.tech</em><em> computer science and engineering, student at the Rajasthan technical University Kota, Rajasthan,india</em></h2>
 
 <!--
 **nitinco/nitinco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
