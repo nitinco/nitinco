@@ -1,6 +1,7 @@
-### Hi there 👋
-<h1>Nitin</h1>
-
+### Hi 👋
+<h1> I am Nitin</h1>
+</hr>
+B.Tech Electronics and Communication Engineering, Student at Rajasthan Technical University, India
 <!--
 **nitinco/nitinco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
