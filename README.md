@@ -3,7 +3,7 @@
 <hr>
 
 
-<h2 style="text-align: centre;"><em>B.tech</em><em> computer science and engineering, student at the Rajasthan technical University Kota, Rajasthan,india</em></h2>
+<h2 style="text-align:centre;"><em>B.tech</em><em> computer science and engineering, student at the Rajasthan technical University Kota, Rajasthan,india</em></h2>
 
 
 <!--
